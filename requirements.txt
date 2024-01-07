@@ -1,0 +1,4 @@
+transformers==4.19.2
+pytorch-lightning==1.8.2
+torchmetrics==0.10.3
+datasets==2.3.2
