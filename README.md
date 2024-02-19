@@ -28,7 +28,8 @@ If you find our work or the code useful, please cite our paper:
 @inproceedings{zhou2023causal,
  title={Causal Inference from Text: Unveiling Interactions between Variables},
  author={Zhou, Yuxiang and He, Yulan},
- booktitle={Proceedings of EMNLP},
- year={2023}
+ booktitle={Findings of EMNLP},
+ year={2023},
+ url={https://arxiv.org/pdf/2311.05286.pdf}
 }
 ```
